@@ -75,7 +75,7 @@
     url: /features/Euler_Integration_Falling_Ball
     not_numbered: true
   - title: Euler's Method w/ special functions JN
-    url: /features/Euler_Integration_Falling_Ball(fHandles)
+    url: /features/Euler_Integration_Falling_Ball_fHandles
     not_numbered: true
 
 # Boundary Value problems chapter
@@ -85,10 +85,10 @@
   expand_sections: true
   sections:
   - title: Shooting Method (w/ RK4) JN
-    url: /features/Shooting_Method(BVP)_RodUsingRK4
+    url: /features/Shooting_Method_BVP_RodUsingRK4
     not_numbered: true
   - title: Finite Differences JN
-    url: /features/Finite_Difference(BVP)
+    url: /features/Finite_Difference_BVP
     not_numbered: true
 
 #Eigenvalue chapter
@@ -108,7 +108,7 @@
   expand_sections: true
   sections:
   - title: Least Squares Regression JN
-    url: /features/LeastSquaresRegression(Linear)
+    url: /features/LeastSquaresRegression_Linear
     not_numbered: true
 
 # Numerical Integration and Differentiation
@@ -131,5 +131,5 @@
   expand_sections: true
   sections:
   - title: Optimization of a tank JN
-    url: /features/Optimization(Cost of Tank)
+    url: /features/Optimization_CostofTank
     not_numbered: true

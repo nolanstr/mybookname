@@ -15,51 +15,6 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ---
 
 
-<div markdown="1" class="cell code_cell">
-<div class="input_area" markdown="1">
-```python
-from __future__ import print_function
-from ipywidgets import interact, interactive, fixed, interact_manual
-import ipywidgets as widgets
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
-import plotly.graph_objs as go
-init_notebook_mode(connected=True)
-
-import time
-import numpy as np
-import math as m
-import numpy as np
-from scipy.optimize import minimize
-
-```
-</div>
-
-<div class="output_wrapper" markdown="1">
-<div class="output_subarea" markdown="1">
-
-<div markdown="0" class="output output_html">
-        <script type="text/javascript">
-        window.PlotlyConfig = {MathJaxConfig: 'local'};
-        if (window.MathJax) {MathJax.Hub.Config({SVG: {font: "STIX-Web"}});}
-        if (typeof require !== 'undefined') {
-        require.undef("plotly");
-        requirejs.config({
-            paths: {
-                'plotly': ['https://cdn.plot.ly/plotly-latest.min']
-            }
-        });
-        require(['plotly'], function(Plotly) {
-            window._Plotly = Plotly;
-        });
-        }
-        </script>
-        
-</div>
-
-</div>
-</div>
-</div>
-
 
 
 <div markdown="1" class="cell code_cell">

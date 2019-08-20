@@ -42,7 +42,7 @@
 # Add a header and sample content section
 - header: Demo textbook
 
-# Roots of equations chapter
+# Roots of equations Chapter
 - title: Roots of Equations
   url: /RootFinding
   not_numbered: true
@@ -55,7 +55,7 @@
     url: /features/Root_Finding_OPen
     not_numbered: true
 
-#Linear Equations
+# Linear equations Chapter
 - title: Linear Equations
   url: /LinearEquations
   not_numbered: true
@@ -65,8 +65,8 @@
     url: /features/Linear_Equation
     not_numbered: true
 
-#Ordinary Differential Equations Chapter
-- title: Ordinary Differential Equations (ODEs)
+# Ordinary Differential Equations chapter
+- title: Ordinary Differential Equations
   url: /OrdinaryDifferentialEquations
   not_numbered: true
   expand_sections: true
@@ -78,8 +78,8 @@
     url: /features/Euler_Integration_Falling_Ball_fHandles
     not_numbered: true
 
-# Boundary Value problems chapter
-  title: Boundary Value Problems (BVP)
+# Boundary Value Problem Chapter
+- title: Boundary Value Problems (BVP)
   url: /BVP
   not_numbered: true
   expand_sections: true
@@ -91,9 +91,9 @@
     url: /features/Finite_Difference_BVP
     not_numbered: true
 
-#Eigenvalue chapter
-  title: Eigenvalue
-  url: /BVP
+# Eigenvalue Chapter
+- title: Eigenvalue
+  url: /EigenValue_LeastSquares
   not_numbered: true
   expand_sections: true
   sections:
@@ -101,8 +101,8 @@
     url: /features/EigenValueProblem_MassSpring
     not_numbered: true
 
-# LSR and Linearization
-  title: Least Squares Regression and Linearization with Interpolation
+# LSR and Linearization Chapter
+- title: Least Squares Regression and Linearization with Interpolation
   url: /LeastSquares_LinearizationInterpolation
   not_numbered: true
   expand_sections: true
@@ -111,12 +111,13 @@
     url: /features/LeastSquaresRegression_Linear
     not_numbered: true
 
-# Numerical Integration and Differentiation
-  title: Numerical Integration and Differentiation
+# Numerical Integration and Differentiation Chapter
+- title: Numerical Integration and Differentiation
   url: /Numerical_Int_Dif
   not_numbered: true
   expand_sections: true
   sections:
+  - title: 
   - title: Numerical Integration JN
     url: /features/Numerical_Integration
     not_numbered: true
@@ -124,7 +125,7 @@
     url: /features/Numerical_Differentiation
     not_numbered: true
 
-# LSR and Linearization
+# Optimization Chapter
   title: Optimization
   url: /Optimization
   not_numbered: true

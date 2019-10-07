@@ -13,6 +13,17 @@ next_page:
   title: ''
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
+<div markdown="1" class="cell code_cell">
+<div class="input_area" markdown="1">
+```python
+# Binder link settings
+use_binder_button                : true  # If 'true', add a binder button for interactive links
+
+```
+</div>
+
+</div>
+
 
 
 

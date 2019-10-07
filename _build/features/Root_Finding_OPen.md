@@ -3,7 +3,7 @@ redirect_from:
   - "/features/root-finding-open"
 interact_link: content/features/Root_Finding_OPen.ipynb
 kernel_name: python3
-has_widgets: false
+has_widgets: true
 title: 'Roots of Equations Open JN'
 prev_page:
   url: /features/root_finding_open_and_bracketing_methods
@@ -13,26 +13,6 @@ next_page:
   title: 'Linear Equations'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div markdown="1" class="cell code_cell">
 <div class="input_area" markdown="1">
 ```python

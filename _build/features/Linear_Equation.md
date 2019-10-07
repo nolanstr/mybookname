@@ -13,20 +13,6 @@ next_page:
   title: 'Ordinary Differential Equations'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div markdown="1" class="cell code_cell">
 <div class="input_area" markdown="1">
 ```python
@@ -42,7 +28,7 @@ w = interact(runFun , function = {'Naive Gauss','LU Decomposition','Gauss Seidel
 <div class="output_subarea" markdown="1">
 {:.output_data_text}
 ```
-interactive(children=(Dropdown(description='function', options=('Naive Gauss', 'LU Decomposition', 'Gauss Seid…
+interactive(children=(Dropdown(description='function', options=('Gauss Seidel', 'LU Decomposition', 'Naive Gau…
 ```
 
 </div>
